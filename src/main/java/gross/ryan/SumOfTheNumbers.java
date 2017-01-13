@@ -9,18 +9,6 @@ public class SumOfTheNumbers {
     int userNumber;
     int sum = 0;
 
-    /*
-    public int getUserInput(Scanner aScanner) {
-        System.out.println("What's your favorite number?\nEnter here: ");
-        return userNumber = aScanner.nextInt();
-    }
-    */
-
-    public int getuserInput(Scanner aScanner, UserInput anInput) {
-        System.out.println("What's your favorite number?\nEnter here: ");
-        return userNumber = anInput.getUserInt(aScanner);
-    }
-
     public int findPositiveSum(int aNumber) {
         for(int i = 1; i <= aNumber; i++) {
             sum += i;
@@ -46,22 +34,16 @@ public class SumOfTheNumbers {
     }
 
     public void displayAnswer() {
-
         System.out.println("Sum from 1 to " + userNumber + " is " + sum);
+
     }
 
     // Standalone
     public void initSumOfTheNumbers(Scanner aScanner, UserInput anInput) {
-        getuserInput(aScanner, anInput);
-        //convertString(userString);
-        findUserSum(userNumber);
+        userNumber = anInput.getUserInt(aScanner);
+        sum = findUserSum(userNumber);
         displayAnswer();
+
     }
 
-    // Used w/ product
-    public void initSum() {
-      //  getUserInput(aScanner);
-        findUserSum(userNumber);
-        displayAnswer();
-    }
 }

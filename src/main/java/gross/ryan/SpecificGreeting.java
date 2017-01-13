@@ -17,23 +17,20 @@ public class SpecificGreeting {
     }
 
     public boolean isValidName(String aString) {
-        return (isAlice(name) && isBob(name));
+        return (isAlice(aString) && isBob(aString));
     }
 
     public void displayName(String aString) {
         if (isValidName(aString)) {
             System.out.println("Hey, " + aString + "!" + " How's it going?");
+        } else {
+            System.out.println("Who are you? Do you even code here?");
         }
     }
 
-    public void userName() {
-        Scanner userInput = new Scanner(System.in);
-        String input = userInput.next();
-    }
-
-    public void initGreeting() {
-        userName();
-        displayName(name);
+    public void initGreeting(Scanner aScanner, UserInput anInput) {
+       name = anInput.getName(aScanner);
+       displayName(name);
     }
 
 }
