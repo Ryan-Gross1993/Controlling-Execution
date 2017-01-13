@@ -1,5 +1,7 @@
 package gross.ryan;
 
+import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
+
 import java.util.Scanner;
 
 /**
@@ -11,7 +13,7 @@ public class ProductOfTheNumbers {
 
 
     public int getPositiveProduct(int userInput) {
-        for (int i = 1; i <= userInput; i++) {
+        for (int i = 1; userInput >= i ; i++) {
             userProduct *= i;
         }
         return userProduct;
@@ -28,7 +30,7 @@ public class ProductOfTheNumbers {
 
 
     public int findProduct(int userInput) {
-        if (userInput >= 1) {
+        if (userProduct >= 1) {
             userProduct = getPositiveProduct(userInput);
         } else {
             userProduct = 0;
@@ -37,7 +39,9 @@ public class ProductOfTheNumbers {
     }
 
 
+    public void initProduct(Scanner aScanner, UserInput anInput) {
 
+    }
 
 
 

@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58027a0d-0e4c-4607-b6d6-6823562f6e77" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/DisplayAnswer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/NumberComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/PlayGame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/RandomNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/gross/ryan/NumberComparatorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/DisplayAnswer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/NumberComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/PlayGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/RandomNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/UserInput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/gross/ryan/NumberComparatorTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,14 +25,21 @@
       <file leaf-file-name="ControllingExecution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +52,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
         <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" />
       </list>
     </option>
   </component>
@@ -185,7 +187,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -674,7 +676,7 @@
       <workItem from="1484330968140" duration="199000" />
       <workItem from="1484331301423" duration="24000" />
       <workItem from="1484331438877" duration="15000" />
-      <workItem from="1484331634096" duration="189000" />
+      <workItem from="1484331634096" duration="2496000" />
     </task>
     <servers />
   </component>
@@ -693,11 +695,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427000" />
+    <option name="totallyTimeSpent" value="2734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -714,7 +716,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -749,7 +751,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/RandomNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/PlayGame.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/NumberComparator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/PlayGame.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/RandomNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/gross/ryan/ProductOfTheNumbersTest.java">
@@ -793,30 +794,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <marker date="1484332880000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484332880000" expanded="true" signature="226:377" ph="{...}" />
+            <marker date="1484332880000" expanded="true" signature="428:534" ph="{...}" />
+            <marker date="1484332880000" expanded="true" signature="579:652" ph="{...}" />
+            <marker date="1484332880000" expanded="true" signature="717:959" ph="{...}" />
+            <marker date="1484332880000" expanded="true" signature="1054:1212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="-394">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
-            <marker date="1484331725000" expanded="true" signature="47:90" ph="/**...*/" />
-            <marker date="1484331725000" expanded="true" signature="207:336" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="382:486" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="532:635" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="677:853" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="887:969" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="1043:1177" ph="{...}" />
-            <marker date="1484331725000" expanded="true" signature="1228:1327" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="47:90" ph="/**...*/" />
+            <marker date="1484334076000" expanded="true" signature="417:556" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="602:706" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="752:855" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="897:1073" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="1107:1189" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="1282:1425" ph="{...}" />
+            <marker date="1484334076000" expanded="true" signature="1476:1575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding>
+            <marker date="1484334238000" expanded="true" signature="28:121" ph="..." />
+            <marker date="1484334238000" expanded="true" signature="123:166" ph="/**...*/" />
+            <marker date="1484334238000" expanded="true" signature="279:402" ph="{...}" />
+            <marker date="1484334238000" expanded="true" signature="453:576" ph="{...}" />
+            <marker date="1484334238000" expanded="true" signature="629:809" ph="{...}" />
+            <marker date="1484334238000" expanded="true" signature="877:885" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1484334154000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484334154000" expanded="false" signature="181:192" ph=" { " />
+            <marker date="1484334154000" expanded="false" signature="212:218" ph=" }" />
+            <marker date="1484334154000" expanded="false" signature="260:271" ph=" { " />
+            <marker date="1484334154000" expanded="false" signature="294:300" ph=" }" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Controlling-Execution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

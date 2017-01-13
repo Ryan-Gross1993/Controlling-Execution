@@ -9,9 +9,16 @@ public class SumOfTheNumbers {
     int userNumber;
     int sum = 0;
 
+    /*
     public int getUserInput(Scanner aScanner) {
         System.out.println("What's your favorite number?\nEnter here: ");
         return userNumber = aScanner.nextInt();
+    }
+    */
+
+    public int getuserInput(Scanner aScanner, UserInput anInput) {
+        System.out.println("What's your favorite number?\nEnter here: ");
+        return userNumber = anInput.getUserInt(aScanner);
     }
 
     public int findPositiveSum(int aNumber) {
@@ -44,8 +51,8 @@ public class SumOfTheNumbers {
     }
 
     // Standalone
-    public void initSumOfTheNumbers(Scanner aScanner) {
-        getUserInput(aScanner);
+    public void initSumOfTheNumbers(Scanner aScanner, UserInput anInput) {
+        getuserInput(aScanner, anInput);
         //convertString(userString);
         findUserSum(userNumber);
         displayAnswer();

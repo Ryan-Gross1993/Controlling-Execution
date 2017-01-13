@@ -21,7 +21,12 @@ public class SumOrProduct {
         userCommand = aScanner.next();
     }
 
-    public void displayAnswer(String userCommand) {
+    public void setInput(Scanner aScanner) {
+        setUserInput(aScanner);
+        setUserCommand(aScanner);
+    }
+
+    public void displayAnswer(String userCommand, int aResult) {
         if (userCommand == "SUM") {
             System.out.println("The sum from 1 to " + userInput + " is " + result);
         } else {
@@ -31,13 +36,13 @@ public class SumOrProduct {
 
 
 
-    public void initSOP(Scanner aScanner, SumOfTheNumbers aSON, ProductOfTheNumbers aPOD) {
-        if (userCommand == "SUM") {
-            aSON.findUserSum(userInput);
 
-        } else {
-            aPOD.findProduct(userInput);
+    public void initSOP(Scanner aScanner, SumOfTheNumbers aSON, ProductOfTheNumbers aPOD) {
+        setInput(aScanner);
+        if (userCommand == "SUM") {
+            aSON.initSum();
+            displayAnswer(userCommand, result);
         }
-        displayAnswer(userCommand);
-    }
+     }
+
 }
