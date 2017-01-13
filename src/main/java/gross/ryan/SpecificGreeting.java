@@ -26,6 +26,7 @@ public class SpecificGreeting {
         } else {
             System.out.println("Who are you? Do you even code here?");
         }
+
     }
 
     public void initGreeting(Scanner aScanner, UserInput anInput) {

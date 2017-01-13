@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58027a0d-0e4c-4607-b6d6-6823562f6e77" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/ControllingExecution.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/ProductOfTheNumbers.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/ProductOfTheNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SpecificGreeting.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/SpecificGreeting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SumOfTheNumbers.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/SumOfTheNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SumOrProduct.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/SumOrProduct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/UserInput.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/UserInput.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" />
@@ -31,11 +22,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SumOfTheNumbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java">
+      <file leaf-file-name="SpecificGreeting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state relative-caret-position="420">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,13 +52,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" />
         <option value="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
         <option value="$PROJECT_DIR$/src/main/java/gross/ryan/ControllingExecution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProductMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreetingMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" />
       </list>
     </option>
   </component>
@@ -692,7 +685,7 @@
       <workItem from="1484330968140" duration="199000" />
       <workItem from="1484331301423" duration="24000" />
       <workItem from="1484331438877" duration="15000" />
-      <workItem from="1484331634096" duration="8052000" />
+      <workItem from="1484331634096" duration="8483000" />
     </task>
     <servers />
   </component>
@@ -711,7 +704,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8290000" />
+    <option name="totallyTimeSpent" value="8721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -812,7 +805,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-79">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <marker date="1484339500000" expanded="true" signature="21:64" ph="/**...*/" />
@@ -823,68 +816,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProductMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="20" selection-end-column="8" />
           <folding>
-            <marker date="1484339899000" expanded="true" signature="48:91" ph="/**...*/" />
-            <marker date="1484339899000" expanded="true" signature="242:485" ph="{...}" />
-            <marker date="1484339899000" expanded="true" signature="549:663" ph="{...}" />
-            <marker date="1484339899000" expanded="true" signature="729:1138" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <marker date="1484340123000" expanded="true" signature="48:91" ph="/**...*/" />
-            <marker date="1484340123000" expanded="true" signature="218:380" ph="{...}" />
-            <marker date="1484340123000" expanded="true" signature="414:562" ph="{...}" />
-            <marker date="1484340123000" expanded="true" signature="601:757" ph="{...}" />
-            <marker date="1484340123000" expanded="true" signature="802:908" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="157:351" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="396:496" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/UserInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="191">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <marker date="1484339228000" expanded="true" signature="48:91" ph="/**...*/" />
-            <marker date="1484339228000" expanded="true" signature="200:297" ph="{...}" />
-            <marker date="1484339228000" expanded="true" signature="341:446" ph="{...}" />
-            <marker date="1484339228000" expanded="true" signature="489:579" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="200:298" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="341:446" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="489:580" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="86">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
-            <marker date="1484339391000" expanded="true" signature="47:90" ph="/**...*/" />
-            <marker date="1484339391000" expanded="false" signature="204:215" ph=" { " />
-            <marker date="1484339391000" expanded="false" signature="241:247" ph=" }" />
-            <marker date="1484339391000" expanded="false" signature="291:302" ph=" { " />
-            <marker date="1484339391000" expanded="false" signature="330:336" ph=" }" />
-            <marker date="1484339391000" expanded="false" signature="384:395" ph=" { " />
-            <marker date="1484339391000" expanded="false" signature="439:445" ph=" }" />
-            <marker date="1484339391000" expanded="true" signature="491:710" ph="{...}" />
-            <marker date="1484339391000" expanded="true" signature="778:852" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="243:486" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="550:664" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="730:1139" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOfTheNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1484340763000" expanded="true" signature="47:90" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="205:309" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="355:459" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="501:678" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="712:794" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="887:1010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1484340763000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="176:384" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="429:535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreetingMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1484340763000" expanded="true" signature="48:91" ph="/**...*/" />
+            <marker date="1484340763000" expanded="true" signature="166:368" ph="{...}" />
+            <marker date="1484340763000" expanded="true" signature="413:525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>

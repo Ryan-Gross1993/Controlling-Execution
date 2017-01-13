@@ -18,10 +18,11 @@ public class SumOfTheNumbers {
     }
 
     public int findNegativeSum(int aNumber) {
-        for(int i = 1; 1 != aNumber; i--) {
+        for(int i = 1; i != aNumber; i--) {
             sum -= 1;
         }
         return sum;
+
     }
 
     public int findUserSum(int aNumber) {
@@ -31,6 +32,7 @@ public class SumOfTheNumbers {
             sum = findNegativeSum(userNumber);
         }
         return sum;
+
     }
 
     public void displayAnswer() {
