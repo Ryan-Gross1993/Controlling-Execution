@@ -6,7 +6,6 @@ import java.util.Scanner;
  */
 public class SpecificGreeting {
     String name;
-    boolean validName;
 
     public boolean isBob(String aString) {
         return (aString == "Bob");
