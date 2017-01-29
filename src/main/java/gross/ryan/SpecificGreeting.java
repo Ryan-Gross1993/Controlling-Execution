@@ -8,15 +8,15 @@ public class SpecificGreeting {
     String name;
 
     public boolean isBob(String aString) {
-        return (aString == "Bob");
+        return (aString.equals("Bob"));
     }
 
     public boolean isAlice(String aString) {
-        return (aString == "Alice");
+        return (aString.equals("Alice"));
     }
 
     public boolean isValidName(String aString) {
-        return (isAlice(aString) && isBob(aString));
+        return (isAlice(aString) || isBob(aString));
     }
 
     public void displayName(String aString) {
@@ -25,7 +25,6 @@ public class SpecificGreeting {
         } else {
             System.out.println("Who are you? Do you even code here?");
         }
-
     }
 
     public void initGreeting(Scanner aScanner, UserInput anInput) {

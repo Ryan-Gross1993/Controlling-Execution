@@ -17,6 +17,7 @@ public class SpecificGreetingTest {
 
     }
 
+    @Test
     public void isAliceTest() {
         Assert.assertTrue(specificGreetingTest.isAlice("Alice"));
         Assert.assertFalse(specificGreetingTest.isAlice("Beth"));

@@ -6,7 +6,6 @@ import java.util.Scanner;
  * Created by ryangross on 1/13/17.
  */
 public class SumOrProduct {
-
     int userInput;
     String userCommand;
     int result;
@@ -17,7 +16,6 @@ public class SumOrProduct {
         } else {
             System.out.println("The product from 1 to " + userInput + " is " + result);
         }
-
     }
 
     public void getInput(Scanner aScanner, UserInput anInput) {
@@ -33,10 +31,9 @@ public class SumOrProduct {
            result = temporarySum.findUserSum(userInput);
        } else {
            ProductOfTheNumbers temporaryProduct = new ProductOfTheNumbers();
-           result = temporaryProduct.findProduct(userInput);
+           result = temporaryProduct.getPositiveProduct(userInput);
        }
-       displayAnswer(userCommand,userInput);
-
+       displayAnswer(userCommand,result);
     }
 
 }

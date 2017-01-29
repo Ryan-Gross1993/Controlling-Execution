@@ -23,6 +23,7 @@ public class ProductOfTheNumbers {
 
     }
 
+    /*
     public int findProduct(int userInput) {
         if (userProduct >= 1) {
             userProduct = getPositiveProduct(userInput);
@@ -31,5 +32,5 @@ public class ProductOfTheNumbers {
         }
         return userProduct;
     }
-
+    */
 }
