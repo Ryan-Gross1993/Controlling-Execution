@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58027a0d-0e4c-4607-b6d6-6823562f6e77" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProductMain.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SumOrProductMain.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SpecificGreeting.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/SpecificGreeting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/gross/ryan/SumOrProduct.class" afterPath="$PROJECT_DIR$/target/classes/gross/ryan/SumOrProduct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/gross/ryan/SpecificGreetingTest.class" afterPath="$PROJECT_DIR$/target/test-classes/gross/ryan/SpecificGreetingTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/ProductOfTheNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SpecificGreeting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOfProductMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" afterPath="$PROJECT_DIR$/src/main/java/gross/ryan/SumOrProduct.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/gross/ryan/SpecificGreetingTest.java" afterPath="$PROJECT_DIR$/src/test/java/gross/ryan/SpecificGreetingTest.java" />
-    </list>
+    <list default="true" id="58027a0d-0e4c-4607-b6d6-6823562f6e77" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -739,7 +727,7 @@
       <workItem from="1484417113262" duration="288000" />
       <workItem from="1484503639251" duration="83000" />
       <workItem from="1484583101275" duration="955000" />
-      <workItem from="1485714611033" duration="442000" />
+      <workItem from="1485714611033" duration="503000" />
     </task>
     <servers />
   </component>
@@ -776,7 +764,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14211000" />
+    <option name="totallyTimeSpent" value="14272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
